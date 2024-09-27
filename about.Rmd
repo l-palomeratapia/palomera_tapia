@@ -1,10 +1,25 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Leonardo Palomera-Tapia, PhD"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+#' ![](images/close_up.jpg){width=25%} 
 
+## Professional
+
+I’m an enthusiastic professional educator and statistical consultant with over ten years of experience collaborating on data analysis with diverse partners in industry, banking, energy, and education.  
+
+My previous work experiences include supporting ... 
+
+I am currently a Data Scientist at [Data Society](https://datasociety.com/){target="_blank"}, working remotely from my home in Denver, Colorado.
+
+## Personal
+
+
+## Contact
+
+Want to chat? Feel free to contact me on [email](mailto:palomera_tapia@icloud.com){target="_blank"}, [Twitter](https://twitter.com/Joise538){target="_blank"}, or [LinkedIn](https://www.linkedin.com/in/leonardo-palomera-05693a90/){target="_blank"}. I hope to hear from you!
+
+
+## R feeds
+
+This blog feeds into [`R Weekly`](https://rweekly.org/){target="_blank"}. Consider adding your blog or subscribing to see all of R's latest and greatest!

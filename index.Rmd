@@ -1,41 +1,39 @@
 ---
 title: "Leonardo Palomera-Tapia"
-image: "frank.jpg"
+image: "images/distance.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: 'https://www.linkedin.com/in/leonardo-palomera-05693a90'
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/Joise538"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/l-palomeratapia'
   - label: Email
     url: "mailto:palomera_tapia@icloud.com"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
- 
+
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Southern California** | Los Angeles, CA
 
-Ph.D. in Computer Science | September 2009 - May 2014
+M.S. in Economics | September 2014 - May 2015
 
-**The University of California, Berkeley** | Berkeley, CA
+**Rice University** | Houston, TX
 
-B.S. in Computer Science | September 2005 - May 2009
+Certificate in Computational Statistics | May 2012 - Feburary 2014
+
+**California State University, Long Beach** | Long Beach, CA
+
+B.S. in Statistics | September 2009 - May 2014
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Data Society** | Data Scientist | November 2022 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Guidehouse** | Managing Consultant | September 2015 - January 2023

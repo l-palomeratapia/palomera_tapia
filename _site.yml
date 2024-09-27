@@ -1,12 +1,21 @@
 name: "."
-title: "Leonard Palomera-Tapia"
+title: "Leonardo Palomera-Tapia"
 description: |
-  Leonard Palomera-Tapia
+  Leonardo Palomera-Tapia
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
+    - text: "About Me"
       href: about.html
+    - text: "Projects"
+      href: project.html
+      menu:
+        - text: "Boston Marathon Basics"
+          href: boston_basics.html
+        - text: "Boston Marathon Pacing"
+          href: boston_pacing.html
+        - text: "Boston Marathon Reflection"
+          href: boston_reflection.html
+    - text: "Teaching"
+      href: teaching.html
 output: distill::distill_article
